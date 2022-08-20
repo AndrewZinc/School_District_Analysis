@@ -30,7 +30,7 @@ There were no substantial effects on the district summary analysis results. When
 
 * Revised District Summary results:
 
-![Revised District Summary Results]Resources/revised_district_analysis_summary.png)
+![Revised District Summary Results](Resources/revised_district_analysis_summary.png)
 
 This result is vital for allowing the school board to determine the overall performance of the district.  The removal of the suspect data shows that the overall district performance is still aligned with the results from the initial (original) analysis.
 
@@ -56,9 +56,12 @@ The score and percentages were negatively affected.
 * Math and Reading Scores by Grade
 	* The only difference in the reported scores is the removal of the 9th grade math and reading scores from the report for Thomas High School.
 	
+	* Revised Math Scores by Grade
+	
 ![Revised Math Scores by Grade](Resources/revised_math_scores_by_grade.png)
 
-
+	* Revised Reading Scores by Grade
+	
 ![Revised Reading Scores by Grade](Resources/revised_reading_scores_by_grade.png)
 
 
