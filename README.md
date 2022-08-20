@@ -22,7 +22,7 @@ The results below will describe the effects of the data replacement throughout t
 
 ## Effects on District Summary
 
-There were no substantial effects on the district summary analysis results. When comparing the original analysis against the revised analysis results, the only visible difference is in the data formatting which had originally presented whole percentages with percent signs.
+There were negligible effects on the district summary analysis results. When comparing the original analysis against the revised analysis results, we can see a 0.01 difference between the two average math scores.  Similarly, we see slight differences in the percentage values, which may be due to differences in the presentation formatting.
 
 * Original District Summary results:
 
@@ -66,8 +66,16 @@ The score and percentages were negatively affected.
 
 
 * Scores by School Spending
-	* The Thomas High School math, reading, and percentages scores, all suffered a slight negative impact.
+	* The Thomas High School math and percentages scores, all suffered a slight negative impact.
 
+	* Original Scores by School Spending:
+	
+![Original Scores by School Spending](Resources/original_school_spending.png)
+
+	* Revised Scores by School Spending:
+	
+![Revised Scores by School Spending](Resources/revised_school_spending.png)
+	
 
 * Scores by School Size
 	* The scores in this portion of the revised analysis were unaffected by the revision of the Thomas High School 9th grade student data.
